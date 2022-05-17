@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
+//Nombres: José Morales - Elias Llanquitru
 namespace PruebaMedidor
 {
     class Program

@@ -21,7 +21,6 @@ namespace ServidorSocketUtils
             this.writer = new StreamWriter(stream);
         }
 
-        //<CR><LF>
         public bool Escribir(string consumo)
         {
             try
